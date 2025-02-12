@@ -1,5 +1,6 @@
 body {
     color: white;
+    font-size: 22px;
     background: black;
     max-width: 800px;
     margin-left: auto;
@@ -12,7 +13,6 @@ h1, h2 {
 }
 
 ul, ol {
-    list-style-type: circle;
     list-style-position: inside;
     margin-left: 250px;
     text-align: left;
@@ -29,4 +29,6 @@ img {
     margin-right: auto;
 }
 
-
+p.last {
+    text-align: center;
+}
