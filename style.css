@@ -13,14 +13,16 @@ h1, h2 {
 }
 
 ul, ol {
-    list-style-position: inside;
-    margin-left: 250px;
+    list-style-position: outside;
+    margin-left: 100px;
+    margin-right: 100px;
     text-align: left;
     
 }
 
 li {
     font-size: 22px;
+    text-align: justify;
 }
 
 img {
